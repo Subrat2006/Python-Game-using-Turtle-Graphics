@@ -10,7 +10,7 @@ The one, who removed the last stick wins.
 1. Python IDLE (any version).
 2. Visual Studio Code by Microsoft (You can use any other IDLE too, but I recommend to use this one)
 
-# Codes:
+## Codes:
 You can get the codes of the project [here](https://github.com/Subrat2006/Python-Game-using-Turtle-Graphics/blob/main/main.py).
 
-# Some glimpses of the project:
+## Some glimpses of the project:
