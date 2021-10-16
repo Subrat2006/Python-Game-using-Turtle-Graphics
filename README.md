@@ -15,3 +15,5 @@ You can get the codes of the project [here](https://github.com/Subrat2006/Python
 
 ## Some glimpses of the project:
 You can get the glimpse of the Project here:
+
+![](https://github.com/Subrat2006/Python-Game-using-Turtle-Graphics/blob/main/main.gif)
